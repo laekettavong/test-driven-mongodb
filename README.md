@@ -1,3 +1,3 @@
-# test-driven-mongodb
+## test-driven-mongodb
 
-## Learning MongoDB and Mongoose design with test-driven approach.
+ Test-driven approach to learning MongoDB and Mongoose design.
