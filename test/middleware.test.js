@@ -1,7 +1,7 @@
 import mongoose from 'mongoose'
 import User from '../src/user'
 import BlogPost from '../src/blogpost'
-import { assert, expect } from 'chai'
+import { assert } from 'chai'
 
 describe('Middleware Test', () => {
     let user, blogPost

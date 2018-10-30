@@ -1,4 +1,3 @@
-import mongoose from 'mongoose'
 import User from '../src/user'
 import Comment from '../src/comment'
 import BlogPost from '../src/blogpost'

@@ -1,5 +1,4 @@
 import { assert, expect } from 'chai'
-import sinon from 'sinon'
 import User from '../src/user'
 
 describe('Create Test', () => {
